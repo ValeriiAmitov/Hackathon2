@@ -1,2 +1,2 @@
 # HACKATHON 2
-![Logo](/images/hackathon.jpeg =250x100)
+![Logo](/images/hackathon.jpeg | width=100)
